@@ -1,0 +1,37 @@
+<nodes>
+	<deviceId>454323ef</deviceId>
+	<node>
+		<timestamp>123123214343254</timestamp>
+		<datasets>
+			<data>
+				<sensorId>1</sensorId>
+				<value>34.2</value>
+			</data>
+			<data>
+				<sensorId>2</sensorId>
+				<value>132.3</value>
+			</data>
+			<data>
+				<sensorId>11</sensorId>
+				<value>43</value>
+			</data>
+		</datasets>
+	</node>
+	<node>
+		<timestamp>123123254324344</timestamp>
+		<datasets>
+			<data>
+				<sensorId>1</sensorId>
+				<value>34.2</value>
+			</data>
+			<data>
+				<sensorId>2</sensorId>
+				<value>132.3</value>
+			</data>
+			<data>
+				<sensorId>11</sensorId>
+				<value>43</value>
+			</data>
+		</datasets>
+	</node>
+</nodes>
